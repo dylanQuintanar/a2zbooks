@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="A2ZBooks.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+        .auto-style2 {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <h1 class="auto-style1" style="font-family: Broadway; text-align: center; letter-spacing: normal; margin-top: 20px; margin-bottom: 10px">A2Z Books</h1>
+        <nav class="auto-style2" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; letter-spacing: normal; margin-top: 20px; margin-bottom: 10px; font-size: x-large; margin-right: 200px;">
+            &nbsp;<a href="Home.aspx" style="text-decoration: none">Home</a> | <a href="SearchResults.aspx" style="text-decoration: none">Search</a> |
+            <a href="Cart.aspx" style="text-decoration: none"><asp:Image ID="imgCart" runat="server" Height="25px" ImageUrl="~/Images/Cart.png" Width="25px" /></a>
+            &nbsp;</nav>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <p class="auto-style1" style="font-style: italic; margin-top: 10px; margin-bottom: 20px">
+            Copyright &copy 2017 eGeek Squad</p>
+    </div>
+    </form>
+</body>
+</html>

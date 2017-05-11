@@ -1,0 +1,484 @@
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Owin.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+\\itfs1\wpcarey\studenthomefolders\jyliang1\documents\visual studio 2015\Projects\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Documents\Visual Studio 2015\Projects\A2ZBooks\A2ZBooks\bin\MySql.Data.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Documents\Visual Studio 2015\Projects\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Documents\Visual Studio 2015\Projects\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Documents\Visual Studio 2015\Projects\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\MySql.Data.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\sliu120\Desktop\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\jyliang1\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Owin.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+D:\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+D:\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+D:\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Owin.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+\\itfs1\wpcarey\StudentHomeFolders\dgquinta\Desktop\CIS425Project\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Owin.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+C:\Users\User\Desktop\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\csc.exe
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\vbc.exe
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll.config
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\A2ZBooks.pdb
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Owin.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\WebGrease.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\MySql.Data.Entity.EF6.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Optimization.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Antlr3.Runtime.pdb
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Newtonsoft.Json.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\EntityFramework.SqlServer.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\System.Web.Providers.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.csprojResolveAssemblyReference.cache
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.dll
+C:\Users\dgqui\Downloads\A2ZBooks (2) (1)\A2ZBooks\A2ZBooks\A2ZBooks\A2ZBooks\obj\Debug\A2ZBooks.pdb
